@@ -54,11 +54,11 @@ Click [My Git Hub](https://github.com/ChangDaePark)
 
 <!-- Code -->
 
-debug console Sample 'Debug.log("--")'
+debug console Sample `Debug.log("--")`
 
-'''C#
+```C#
 Debug.log('--')
-'''
+```
 
 <!-- TodoList -->
 - [X] #379
